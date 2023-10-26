@@ -1,0 +1,4 @@
+﻿  Сиаод5.cpp
+C:\Users\Timofey\source\repos\Сиаод5\Сиаод5\Сиаод5.cpp(438): warning C4838: преобразование из "int" в "float" требует сужающего преобразования
+C:\Users\Timofey\source\repos\Сиаод5\Сиаод5\Сиаод5.cpp(438): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Сиаод5.vcxproj -> C:\Users\Timofey\source\repos\Сиаод5\Debug\Сиаод5.exe
